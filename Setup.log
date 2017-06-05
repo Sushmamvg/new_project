@@ -1,0 +1,409 @@
+Setup Log of: DRPU Card and Label Designer
+Version: 8.2.0.1
+
+Date: 05-JUN-2017 11:36:40
+Operating System: Win7.64  6.1  7601 - x64 Workstation (Service Pack 1)
+Composer Version: 11.0.0.1
+
+WinTempDir: C:\Users\Admin\AppData\Local\Temp
+SourceDir:  C:\Users\Admin\AppData\Local\Temp\SETUP_23693
+
+Execute at: (1) --- Setup Start
+Execute at: (22) --- Before Dialogs
+Show Setup Dialog: Welcome
+Show Setup Dialog: License Agreement
+Execute at: (13) --- Before Destination
+Show Setup Dialog: Choose Destination Location
+Execute at: (14) --- After Destination
+Execute at: (17) --- Before Shortcuts
+Show Setup Dialog: Set Program Shortcuts
+Execute at: (18) --- After Shortcuts
+Show Setup Dialog: Confirm Setup Settings
+Create Target Directory: C:\Program Files (x86)\DRPU Card and Label Designer ... TRUE
+Show Setup Dialog: Copying Files
+Execute at: (2) --- Before Copy
+Handle First UnInstall Data
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Uninstall.exe ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Card_Designer.exe ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Help.chm ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\idautomation.aztec.dll ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\IDAutomation.Databar.dll ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\idautomation.datamatrix.dll ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\idautomation.maxicode.dll ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\idautomation.micrcontrol.dll ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\idautomation.pdf417.dll ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\IDAutomation.QRCode.dll ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Microsoft.Office.Interop.Excel.dll ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\PBarcode.dll ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Pddbarcode.dll ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer\Formats)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Formats\Default Print Profile.drp ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\airmail_closed [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\atm_128.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\atm_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\bank_128.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\cake_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\calculator [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\cashier.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\chest_open_full [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\currency_dollar [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\currency_euro [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\currency_pound [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\currency_yen [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\Email Orange [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\Email Read Orange [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\Email [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\envelope_cushioned.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\flour_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\moneybag2 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\money_coins [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\postage_stamp.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Banking\visa_128_hot.dld ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\beer_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\butter_ice_cream_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\cartoon_18 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\cartoon_26 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\cartoon_56 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\champagne_bottle [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\champagne_glass [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\chocolate_cake_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\chocolate_glaze_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\chocolate_ice_cream_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\chocolate_mousse_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\club_sandwich_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\cocktail_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\cookies.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\corndog_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\cup_ice_cream_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\drink_green [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\french_fries_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\grape_cake_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\hot_chocolate_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\icecream [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\icecube [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\kastera_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\orange_juice_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\pineapple_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\pizza_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\potato_chips_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\raspberry_syrup_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\sandwich_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\scotch_whisky_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\soft_cream_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\squash_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\strawberry_cream_biscuit_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\sundae_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\toffees_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\tutti_frutti_ice_cream_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\tween_chocolate_ice_cream_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\vanilla_ice_cream_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\wine_red_bottle [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\wine_rose_glass.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Birthday\wine_white_glass [1600x1200].dld ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer\Images\Business Card)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Business Card\atom.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Business Card\church [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Business Card\Contact Card Blue Female [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Business Card\Contact Card Blue Male [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Business Card\credit_cards_128_hot.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Business Card\credit_card_128_hot.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Business Card\Office Male White Shirt [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Business Card\persnal_card_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Business Card\personal_card_256 [1600x1200].dld ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\cloud_rain [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\cloud_sun [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\cube_molecule.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\diamond [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\dice_red [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\Entertainment [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\environment [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\Favorites [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\film [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\fire [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\fish_bowl.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\flower_red [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\gift.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\gold_bars [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\heart [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\heart_broken [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\Home Simple [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\Internet [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\masks [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\palette_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\palm_tree [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\star_128_hot (2).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\sun [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Greeting\sunglasses [1600x1200].dld ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\ambulance (2) [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\antibiotics_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\band_aid.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\bed [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\bottle_of_pills [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\first_aid_kit_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\heart_organ [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\injection.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\medical_bag_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\nurse2.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\pill_red.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\prescription_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\product_blue.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\quarantine_128_hot.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\quarantine_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\stethoscope.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Healthcare\suitcase [1600x1200].dld ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer\Images\ID Card)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\ID Card\idc_18_hot.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\ID Card\id_card.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\ID Card\id_card2.dld ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\alarm [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\army_knife [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\basketball_128.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\bicycle [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\Bike [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\binocular [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\bomb [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\bottle [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\caliper [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\camera (2) [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\camera2 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\car_convertible_grey [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\Clock White [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\Computer [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\Construction Tractor [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\construction_barrier [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\equipment_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\factory.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\goblet_gold [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\hammer2 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\industr_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\keyboard [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\Monitor [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\nut_and_bolt.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\office_chair [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\plastic_package_256_hot [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\pliers [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\power-drill.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\raw_material_128_hot.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\scissors [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\screwdriver [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\Smart Phone [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\stapler.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\telephone [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\toolbox [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\tweezers [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\utility_knife [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\videocamera [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\Volume [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\Wacom Tablet [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\wafers_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\wallet_128_hot.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\wallet_closed.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Manufacture\wrench [1600x1200].dld ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\apple [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\athlete [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\baby [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\banana [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\boxing_gloves_red [1600x1200] [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\briefcase2 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\brush_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\certificate (2) [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\Certificate [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\chart_column [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\chart_donut [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\chart_pie2 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\chess_piece [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\cup [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\dog [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\door2 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\dynamite [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\fire_extinguisher [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\fish [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\guitar [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\gun [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\handcuffs [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\handheld_device [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\hard_hat_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\hat_red [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\headset [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\helicopter [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\key [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\knife [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\lifebelt [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\lightbulb_on [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\lock [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\lock_open [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\loudspeaker2 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\Magnet [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\magnifying_glass [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\mda [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\memorystick [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\minibus_grey [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\mobilephone3 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\pda [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\plastic_package_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\plug [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\pylon [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\Recycle Bin Full [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\Recycle Bin [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\safe [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\Search [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\security_badge [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\skull [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\soccer_ball [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\Wizard Wand [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\Wizard [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Objects\worm [1600x1200].dld ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles (10).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles (11).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles (12).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles (13).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles (14).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles (15).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles (2).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles (3).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles (4).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles (5).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles (6).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles (7).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles (8).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles (9).dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Patterns\Tiles0.dld ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\Attach Notes [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\ballpen_blue [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\bible [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\Book Write Red [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\books_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\book_128_hot.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\book_blue_open2 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\book_yellow.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\bullets [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\Calendar 28 Days [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\calendar [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\cd [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\cd_case [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\chec_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\contract [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\desk [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\Document Folder [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\Document Web [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\folder2_red.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\folder2_yellow.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\fountain_pen [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\homework_128.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\hourglass [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\library_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\medal [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\notebook [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\palette_128 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\pencil [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\pens [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\presentation_chart [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\Reports Pie Chart [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\rubberstamp [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\sendbox_128_hot.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\service_bell [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\skills_128 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\skills_128.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Publishing\Text Document [1600x1200].dld ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer\Images\Retail)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Retail\chest [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Retail\inventory_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Retail\office_building [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Retail\purchase_128.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Retail\purse_128.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Retail\shelf.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Retail\shopping_bag.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Retail\shopping_bag_empty.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Retail\shopping_cart.dld ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer\Images\User)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\User\doctor.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\User\dude3 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\User\operator_128.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\User\robber [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\User\schoolboy [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\User\scientist [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\User\senior_citizen [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\User\senior_citizen2 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\User\teacher [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\User\user [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\User\user2 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\User\user3 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\User\woman2 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\User\worker [1600x1200].dld ... OK
+
+Start Copy Directory
+  (C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing)
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\adhesive_tape.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\availability_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\box_white_closed.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\containership.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\inventory_category_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\package [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\packaging_tape.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\prime_mover_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\sandbag_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\ship [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\Shipping Boxes Closed [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\store-house_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\tape_measure [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\tape_measure_256 [1600x1200].dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\truck_128_hot.dld ... OK
+  Copy File: C:\Program Files (x86)\DRPU Card and Label Designer\Images\Warehouseing\truck_red [1600x1200].dld ... OK
+
+Execute at: (3) --- After Copy
+Registering Components --- Start
+
+Create Start/Program shortcut:
+  DRPU Card and Label Designer\DRPU Card and Label Designer  (C:\Program Files (x86)\DRPU Card and Label Designer\Card_Designer.exe) ... OK
+Create Start/Program shortcut:
+  DRPU Card and Label Designer\Help  (C:\Program Files (x86)\DRPU Card and Label Designer\Help.chm) ... OK
+Create Desktop shortcut:
+  DRPU Card and Label Designer  (C:\Program Files (x86)\DRPU Card and Label Designer\Card_Designer.exe) ... OK
+Create Start/Program shortcut:
+  DRPU Card and Label Designer\Uninstall DRPU Card and Label Designer  (C:\Program Files (x86)\DRPU Card and Label Designer\Uninstall.exe) ... OK
+
+Registering Components --- End
+
+Execute at: (23) --- After Reg Components
+Execute at: (19) --- Before Complete
+Show Setup Dialog: Setup Complete
+Execute at: (20) --- After Complete
+Execute at: (4) --- Setup End
